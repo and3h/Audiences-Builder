@@ -1,1 +1,3 @@
-# Producer-mobile-audience
+# Audiences-Builder
+# ساخت مخاطب ها به صورت رندوم
+# خواندن شماره از فایل و تبدیل به vcf 
